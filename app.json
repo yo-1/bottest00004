@@ -1,0 +1,20 @@
+{
+  "name": "bottest00004",
+  "scripts": {
+  },
+  "env": {
+    "LINE_CHANNEL_ACCESS_TOKEN": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
